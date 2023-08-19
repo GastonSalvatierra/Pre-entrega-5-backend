@@ -1,0 +1,19 @@
+{
+  "name": "pre-entrega-final-1",
+  "version": "1.0.0",
+  "description": "\"Entrega-final-1\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "author": "Gaston Salvatierra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "mongoose": "^7.4.3",
+    "socket.io": "^4.7.2"
+  }
+}
